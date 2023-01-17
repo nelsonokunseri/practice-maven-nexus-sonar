@@ -13,9 +13,7 @@ public class DemoApplication {
 
 		System.outprintln(name);
 
-		Interger age = "20";
-		System.out.println(age + 5);
-		
+
 	}
 
 }
